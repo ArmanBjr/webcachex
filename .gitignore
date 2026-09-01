@@ -1,0 +1,28 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.obj
+web_server/web_server
+cache_server/cache_server
+web_server_bin
+cache_server_bin
+
+# Runtime logs (generated when servers run)
+cache_server/cache_log.csv
+web_server/origin_a_log.csv
+web_server/origin_b_log.csv
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
