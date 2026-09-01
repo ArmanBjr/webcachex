@@ -7,6 +7,8 @@ web_server/web_server
 cache_server/cache_server
 web_server_bin
 cache_server_bin
+response.bin
+*.zip
 
 # Runtime logs (generated when servers run)
 cache_server/cache_log.csv

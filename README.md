@@ -2,6 +2,8 @@
 
 Course project for **Computer Networks** at Ferdowsi University of Mashhad (FUM). A multi-threaded reverse-proxy cache with two origin web servers and a PyQt dashboard for sending requests and inspecting CSV logs.
 
+> Course report: [`report/report.pdf`](report/report.pdf)
+
 ## Architecture
 
 ```
